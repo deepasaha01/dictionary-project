@@ -18,6 +18,7 @@ export default function Dictionary() {
           type="search"
           onChange={handleKeywordChange}
           className="form-control"
+          placeholder="Enter a word to search"
         />
       </form>
     </div>
