@@ -12,7 +12,16 @@ function App() {
         </main>
       </div>
       <footer className="App-footer">
-        <small>Coded by Deepa Saha</small>
+        <small>
+          This project was coded by Deepa Saha and is{" "}
+          <a href="https://github.com/deepasaha01/dictionary-project">
+            open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a href="https://eloquent-northcutt-e03492.netlify.app">
+            hosted on Netlify
+          </a>
+        </small>
       </footer>
     </div>
   );
