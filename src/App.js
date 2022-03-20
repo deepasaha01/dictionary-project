@@ -14,11 +14,19 @@ function App() {
       <footer className="App-footer">
         <small>
           This project was coded by Deepa Saha and is{" "}
-          <a href="https://github.com/deepasaha01/dictionary-project">
+          <a
+            href="https://github.com/deepasaha01/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a href="https://eloquent-northcutt-e03492.netlify.app">
+          <a
+            href="https://eloquent-northcutt-e03492.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
             hosted on Netlify
           </a>
         </small>
